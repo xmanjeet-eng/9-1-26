@@ -3,5 +3,8 @@ yfinance
 pandas
 pandas-ta
 numpy
+xgboost
 pytz
 gunicorn
+requests
+scikit-learn

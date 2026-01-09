@@ -1,0 +1,7 @@
+flask
+yfinance
+pandas
+pandas-ta
+numpy
+pytz
+gunicorn
